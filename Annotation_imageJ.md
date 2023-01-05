@@ -14,7 +14,7 @@ The goal of this step is to identify different phases in your image and identify
 3. Adjust the contrast level if needed --> Image - Adjust - Brightness/contrast --> adjust the scroll bar
 4. Change the image to 8-bit --> Image - Type - 8-bit
 5. Once you identify the region to be labelled - zoom in --> press icon 2 shown in step 1 - click on the region in the image to zoom in
-6. Now we define the value of the pixel to be drawn --> press icon 3 shown in step 1 -
+6. Now we define the value of the pixel to be drawn --> press icon 3 shown in step 1 - following window will appear <br>
 <IMG SRC="CP.png" title="ImageJ CP window"><br>
 
 

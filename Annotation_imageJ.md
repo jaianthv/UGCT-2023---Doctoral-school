@@ -8,5 +8,5 @@ Optional - A plugin suitable for 3D analysis is MorphoLibJ under the plugin IJPB
 The goal of this step is to identify different phases in your image and identify them (associated pixels) with an integer (1,2,3). 
 
 1. Open image - file - open image from file explorer or simply drag and drop
-2. 
-<IMG SRC="" height="160" width="160"><br>
+
+<IMG SRC="ImageJ_main.png"><br>

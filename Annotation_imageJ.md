@@ -10,3 +10,5 @@ The goal of this step is to identify different phases in your image and identify
 1. Open image - file - open image from file explorer or simply drag and drop
 
 <IMG SRC="ImageJ_main.png" title="ImageJ main window"><br>
+  
+![Image description](ImageJ_main.png)

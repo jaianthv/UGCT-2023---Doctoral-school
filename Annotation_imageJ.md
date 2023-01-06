@@ -33,5 +33,5 @@ Note - In case you do not see the "Pencil tool", click the ">>" symbol icon 5, a
 ## Annotating multiple phases in the image
  To annote multiple imagee, you have draw different phases with different pixel values such as 1,2,3,4, depening on the number of phases. There are two option, 1. Annotate each phase as binary following step 1-16 in the previous section then add the images together, or 2. color different phases on the single image by changing the pixel value mentioned in step "6-7". An example of two phase annotation is shown below. Here I used the same image shown above where we only annotated the pores, however, here the non-pore region is also annotated with a value. (I did not do a good job here). Here, the dark region have value "1" and white region have value "2". Once done you can save the image and redo this procedure for other images to annotate for the training.
   
- <IMG SRC="Two_phase.png" title="Threshold window"><br>
+ <IMG SRC="Two_phase.png" title="Threshold window", height="500", width="500"><br>
   

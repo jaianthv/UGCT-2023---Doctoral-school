@@ -17,7 +17,7 @@ The goal of this step is to identify different phases in your image and identify
 6. Now we define the value of the pixel to be drawn --> press icon 3 shown in step 1 - a window with name "CP" will appear, double click anywhere inside the window and the "Foreground color window would appear." <br>
 <IMG SRC="CP.png" title="ImageJ CP window"><br>
 7. Make RGB value as 255. Press OK and close the CP and Foreground color window. Now the value of the pixel you will draw is fixed.
-8. Now choose icon 4 "Pencil tool", now you have a pencil in your cursor. To control the size of the pencil tip, right click on the icon and scroll depending on the size of the pixel you need.
+8. Now choose icon 4 "Pencil tool", now you have a pencil in your cursor. To control the size of the pencil tip, double click on the icon and scroll depending on the size of the pixel you need.
 Note - In case you do not see the "Pencil tool", click the ">>" symbol icon 5, and select drawing tool, then the necessary ioncs will appear in the main window.
 9. Yes the cross wire and select the pixel to draw, when you hover your mouse on the pixel you have drawn you can see the value of the pixel on the main window saying "Value = 255". This confirms you have made/drawn those pixels as 255.
 10. Repeat the procedure and color the remaining pore region.
@@ -28,7 +28,10 @@ Note - In case you do not see the "Pencil tool", click the ">>" symbol icon 5, a
 14. In the resulting image the color is inverted. That is 255 pixels appear black and background appearing white. To invert this go to --> Image - Lookup tables - Grays. This will invert the image as shown in window 4.
 15. To change the value from 255 to 1 --> Process - Math - divide by 255. 
 16. You have annoted the image. Now you can save --> File save as.
-17. Repeat 1-16 for other training images.
+17. Repeat 1-16 to annotate other training images.
 
 ## Annotating multiple phases in the image
+ To annote multiple imagee, you have draw different phases with different pixel values such as 1,2,3,4, depening on the number of phases. There are two option, 1. Annotate each phase as binary following step 1-16 in the previous section then add the images together, or 2. color different phases on the single image by changing the pixel value mentioned in step "6-7". An example of two phase annotation is shown below (I did not do a good job here).
+  
+ <IMG SRC="Two_Phase.png" title="Threshold window"><br>
   

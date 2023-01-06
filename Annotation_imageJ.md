@@ -24,4 +24,11 @@ Note - In case you do not see the "Pencil tool", click the ">>" symbol icon 5, a
 11. Once you have finished coloring all the pores, the image should be converted to a binary, i.e. the pores should have value "1" and the remaining region should have value "0".
 12. To do this, we threshold the image. --> Press Image - Adjust - Threshold --> window 1 and 2 will appear
  <IMG SRC="Threshold.png" title="Threshold window"><br>
+13. Set the range between 250 - 255 for example in window "2", Use "Default" and "B&W" in the drop down menu, uncheck all the boxes. The threshold results appears as window "3". IF you are happy, press "Apply".
+14. In the resulting image the color is inverted. That is 255 pixels appear black and background appearing white. To invert this go to --> Image - Lookup tables - Grays. This will invert the image.
+15. To change the value from 255 to 1 --> Process - Math - divide by 255. 
+16. You have annoted the image. Now you can save --> File save as.
+17. Repeat 1-16 for other training images.
+
+## Annotating multiple phases in the image
   

@@ -19,7 +19,7 @@ The goal of this step is to identify different phases in your image and identify
 7. Make RGB value as 255. Press OK and close the CP and Foreground color window. Now the value of the pixel you will draw is fixed.
 8. Now choose icon 4 "Pencil tool", now you have a pencil in your cursor. To control the size of the pencil tip, double click on the icon and scroll depending on the size of the pixel you need.
 Note - In case you do not see the "Pencil tool", click the ">>" symbol icon 5, and select drawing tool, then the necessary ioncs will appear in the main window.
-9. Yes the cross wire and select the pixel to draw, when you hover your mouse on the pixel you have drawn you can see the value of the pixel on the main window saying "Value = 255". This confirms you have made/drawn those pixels as 255.
+9. Use the cross wire and select the pixel to draw, when you hover your mouse on the pixel you have drawn you can see the value of the pixel on the main window saying "Value = 255". This confirms you have made/drawn those pixels as 255.
 10. Repeat the procedure and color the remaining pore region.
 11. Once you have finished coloring all the pores, the image should be converted to a binary, i.e. the pores should have value "1" and the remaining region should have value "0".
 12. To do this, we threshold the image. --> Press Image - Adjust - Threshold --> window 1 and 2 will appear

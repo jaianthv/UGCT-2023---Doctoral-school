@@ -35,3 +35,8 @@ Note - In case you do not see the "Pencil tool", click the ">>" symbol icon 5, a
   
  <IMG SRC="Two_phase.png" title="Threshold window" height="300" width="300"><br>
   
+  
+ ## Extras
+ 
+  # Morphiolib for image analysis - [link](https://imagej.net/plugins/morpholibj)
+  # Weka segmentation  - [link](https://imagej.net/plugins/tws/)

@@ -38,5 +38,5 @@ Note - In case you do not see the "Pencil tool", click the ">>" symbol icon 5, a
   
  ## Extras
  
-  # Morphiolib for image analysis - [link](https://imagej.net/plugins/morpholibj)
-  # Weka segmentation  - [link](https://imagej.net/plugins/tws/)
+  ### Morphiolib for image analysis - [link](https://imagej.net/plugins/morpholibj)
+  ### Weka segmentation  - [link](https://imagej.net/plugins/tws/)
